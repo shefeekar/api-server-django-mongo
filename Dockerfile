@@ -2,7 +2,7 @@
 # Use the official Python runtime image
 FROM python:3.9  
  
-# Create the app directory
+# Create the app directory.
 RUN mkdir /app
  
 # Set the working directory inside the container
